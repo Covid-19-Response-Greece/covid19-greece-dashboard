@@ -1,4 +1,4 @@
-# CORONAVIRUS dashboard for Greece
+# Coronavirus dashboard for Greece
 A project run by volunteers at [COVID-19 Response Greece](https://www.covid19response.gr).
 
 This repository provides a dashboard to vizualise the spread of the coronavirus (COVID-19) in Greece.
