@@ -15,7 +15,8 @@ export default class MainLineChart extends React.Component {
     }
 
     async componentDidMount() {
-      console.log(await fetchDailyInformation())
+      //console.log(await fetchDailyInformation())
+
         const myChartRef = this.chartRef.current.getContext("2d");
         let response = await axios.get("http://localhost:5000/all")
         let data = response.data.cases
